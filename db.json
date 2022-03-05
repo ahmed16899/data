@@ -1,7 +1,19 @@
-[
+{
+  "posts": [
+  {
+    "name": "Ahmed",
+    "Location": "Cairo",
+    "Date": "3/4/2022"
+  },
+  {
+    "name": "Ahmed",
+    "Location": "Cairo",
+    "Date": "3/4/2022"
+  },
   {
     "name": "Ahmed",
     "Location": "Cairo",
     "Date": "3/4/2022"
   }
 ]
+}
