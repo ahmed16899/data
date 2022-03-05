@@ -1,5 +1,4 @@
-{
-Reservations: [
+[
   {
     "name": "Ahmed",
     "Location": "Cairo",
@@ -21,4 +20,3 @@ Reservations: [
     "Date": "2/7/2022"
   }
 ]
-}
